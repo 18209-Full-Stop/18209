@@ -16,7 +16,7 @@ public class SK_Auto extends OpMode {
 
 //This is a super cool test
 //Hello
-// Yet another test comment!
+// Yet another test comment! this is cool
     
     private Follower follower;
     private int pathState;
